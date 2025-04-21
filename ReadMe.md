@@ -1,5 +1,7 @@
 # 💫 About Me:
-An AI and Data science graduate looking to get into the industry<br>
+AI and Data Science graduate with expertise in Python, SQL, data analysis, and machine
+learning. Passionate about solving real-world problems, learning new technologies, and
+building data-driven solutions to drive meaningful insights and impact.<br>
 
 
 ## 🌐 Socials:
